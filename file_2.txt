@@ -1,0 +1,7 @@
+hi
+hello
+haha
+hehe
+frist commit new feature
+second commit new feature
+comeback to master
